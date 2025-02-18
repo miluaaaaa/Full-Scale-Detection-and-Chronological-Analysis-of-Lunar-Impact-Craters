@@ -1,0 +1,56 @@
+[
+    {
+        "original_image": "MoonCode\\material\\Study region\\10.jpg",
+        "output_path": "finalstudy_regions\\10_x7283_y7766_s3000.jpg",
+        "center_x": 8783,
+        "center_y": 9266,
+        "x_start": 7283,
+        "y_start": 7766,
+        "size_pixels": 3000
+    },
+    {
+        "original_image": "MoonCode\\material\\Study region\\11.jpg",
+        "output_path": "finalstudy_regions\\11_x525_y12717_s3000.jpg",
+        "center_x": 2025,
+        "center_y": 14217,
+        "x_start": 525,
+        "y_start": 12717,
+        "size_pixels": 3000
+    },
+    {
+        "original_image": "MoonCode\\material\\Study region\\12.jpg",
+        "output_path": "finalstudy_regions\\12_x13363_y4641_s3000.jpg",
+        "center_x": 14863,
+        "center_y": 6141,
+        "x_start": 13363,
+        "y_start": 4641,
+        "size_pixels": 3000
+    },
+    {
+        "original_image": "MoonCode\\material\\Study region\\7.jpg",
+        "output_path": "finalstudy_regions\\7_x847_y10266_s3000.jpg",
+        "center_x": 2347,
+        "center_y": 11766,
+        "x_start": 847,
+        "y_start": 10266,
+        "size_pixels": 3000
+    },
+    {
+        "original_image": "MoonCode\\material\\Study region\\8.jpg",
+        "output_path": "finalstudy_regions\\8_x9032_y7448_s3000.jpg",
+        "center_x": 10532,
+        "center_y": 8948,
+        "x_start": 9032,
+        "y_start": 7448,
+        "size_pixels": 3000
+    },
+    {
+        "original_image": "MoonCode\\material\\Study region\\9.jpg",
+        "output_path": "finalstudy_regions\\9_x3450_y7610_s3000.jpg",
+        "center_x": 4950,
+        "center_y": 9110,
+        "x_start": 3450,
+        "y_start": 7610,
+        "size_pixels": 3000
+    }
+]

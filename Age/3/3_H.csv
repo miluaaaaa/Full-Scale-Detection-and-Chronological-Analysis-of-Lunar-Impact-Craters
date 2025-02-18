@@ -1,0 +1,6 @@
+Region,Position,X1,Y1,X2,Y2,Age_Years
+1,Left Upper,0,0,2000,2000,3.41 Ga
+2,Right Upper,2000,0,4000,2000,3.42 Ga
+3,Left Lower,0,2000,2000,4000,3.40 Ga
+4,Right Lower,2000,2000,4000,4000,3.49 Ga
+5,Whole Surface,0,0,4000,4000,3.43 Ga

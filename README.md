@@ -15,7 +15,7 @@ You can use deafult.yaml or run it directly in the terminal.
 python MoonCode/tif4s.py
 ```
 
-3.Run the study region.py file in MoonCode. The purpose is to randomly select a 20*200km^2 area from the just-segmented image, or you can set another area.
+3.Run the study region.py file in MoonCode. The purpose is to randomly select a 200*200km^2 area from the just-segmented image, or you can set another area.
 
 ```
 python MoonCode/study region.py

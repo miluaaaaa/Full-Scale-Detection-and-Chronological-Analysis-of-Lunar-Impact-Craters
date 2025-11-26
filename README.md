@@ -24,7 +24,7 @@ python MoonCode/study region.py
 4.In the spilt processing folder, there is a split.py file containing input, which outputs a few rows and columns in the terminal. The input is the 200*200km^2 tif image that was just randomly split, and the text is the output of eight rows and eight columns.
 
 ```
-python spilt processing/split.py
+python MoonCode/split.py
 ```
 
 5.Find the split processing/GAN/GAN.py file. First, randomly split a 200*200km^2 random area once for GAN processing and output to the folder REF_PIC. Then input the split small photo into GAN as the starting point for recognition.

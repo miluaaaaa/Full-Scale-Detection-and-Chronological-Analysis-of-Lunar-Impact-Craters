@@ -21,7 +21,7 @@ def main(test_num, first_conf=0.3, second_conf=0.15, scale_factor=2.0):
         # 设置路径
         model_path = 'yolov8_ADown.pt'
         small_images_folder = 'Fig\\input\\64sg'  # 修正小图片路径
-        ref_image_path = 'REF_pic\\6\\split_r1_c2_x13386_y6913_s2000_restored.tif'
+        ref_image_path = './split_r1_c2_x13386_y6913_s2000_restored.tif'
         
         # 确保输出文件夹存在
         os.makedirs(f'{test_num}t', exist_ok=True)
